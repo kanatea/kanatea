@@ -1,4 +1,4 @@
-### Hi there 👋
+BA/MS student in Applied Social Research at Hunter College
 
 <!--
 **kanatea/kanatea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
