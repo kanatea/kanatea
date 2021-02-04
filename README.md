@@ -6,7 +6,7 @@ I’m a BA/MS student in Applied Social Research at Hunter College.
 - I’m interested in exploring digital disinformation, voter disenfranchisement, and unequal ad distribution 
 - I’m currently looking for projects that incorporate ML methodology in policy research, specifically in the context of surveillance and criminal justice
 - I go by she/her pronouns
-- I love to read, my current favorites are [Twitter & Teargas] (https://www.twitterandteargas.org/) and [The House On Mango Street] (https://en.wikipedia.org/wiki/The_House_on_Mango_Street)
+- I love to read, my current favorites are Twitter & Teargas and The House On Mango Street
 
 I believe in spreading and sharing the wealth of knowledge! Please reach out to me via email.
 
