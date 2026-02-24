@@ -1,7 +1,7 @@
 ### Hi there!
 
 I’m currently an MS student in Geospatial Technologies/Geoinformatics at NOVA IMS, Lisboa.
-I have a MS in Applied Social Research at Hunter College, New York.
+I have a MS in Applied Social Research from Hunter College, New York.
 
 - I'm currently learning data mining methodologies in GIS and geoinformatics, including machine learning and neural networks
 - I’m interested in exploring digital disinformation, voter disenfranchisement, and data accessibility
