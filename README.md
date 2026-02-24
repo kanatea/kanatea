@@ -1,10 +1,12 @@
 ### Hi there!
 
-I’m a BA/MS student in Applied Social Research at Hunter College.
+I’m currently an MS student in Geospatial Technologies/Geoinformatics at NOVA IMS, Lisboa.
+I have a MS in Applied Social Research at Hunter College, New York.
 
-- I'm currently learning research methodology that applies Machine Learning in the social sciences
-- I’m interested in exploring digital disinformation, voter disenfranchisement, and unequal ad distribution 
-- I’m currently looking for projects that incorporate ML methodology in policy research, specifically in the context of surveillance and criminal justice
+- I'm currently learning data mining methodologies in GIS and geoinformatics, including machine learning and neural networks
+- I’m interested in exploring digital disinformation, voter disenfranchisement, and data accessibility
+- I would like to continue working in public health or social science research
+- I’m currently looking for projects that incorporate ML methodology in policy research, either in the context of surveillance and criminal justice or in epidemiology (ideally a combination of both)
 - I go by she/her pronouns
 - I love to read, my current favorites are [Twitter & Teargas](https://twitterandteargas.org) and [The House On Mango Street](https://en.wikipedia.org/wiki/The_House_on_Mango_Street)
 
